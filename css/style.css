@@ -163,12 +163,12 @@ a:hover, a:focus, a:active, a:active:focus {
 }
 
 .btn-ghost, .btn-ghost:hover, .btn-ghost:focus, .btn-ghost:active, .btn-ghost:active:focus {
-	background: rgba(255, 255, 255, .3);
+	background: rgba(62, 198, 108, .7);
 	color: #fff;
 }
 
 .btn-ghost:hover {
-	background: rgba(255, 255, 255, .5);
+	background: rgba(62, 198, 108, .9);
 	color: #fff;
 }
 
@@ -485,12 +485,12 @@ hr {
 /* Send button */
 
 form .btn, form .btn:hover, form .btn:focus, form .btn:active:focus {
-	background: rgba(150, 160, 175, .8);
+	background: rgba(62, 198, 108, .8);
 	margin-top: 30px;
 }
 
 form .btn:hover {
-	background: rgba(150, 160, 175, 1);
+	background: rgba(62, 198, 108, 1);
 	margin-top: 30px;
 }
 
